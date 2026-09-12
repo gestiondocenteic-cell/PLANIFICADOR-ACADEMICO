@@ -1,0 +1,8 @@
+{
+  "name": "Planificador Docente - Continental - V2",
+  "description": "Aplicación de gestión y auditoría para el seguimiento de carpetas docentes y cumplimiento académico, con integración de IA para análisis de aula virtual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
